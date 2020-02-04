@@ -4,3 +4,11 @@ HOJA DE REVISION
 PREFACIO
 TABLA DE CONTENIDOS
 LISTA DE FIGURAS
+
+vision general del proyecto
+1Resumen del proyecto
+1.1.1 porposito, alcance y objetivos
+1.1.2 suposiciones y restricciones
+1.1.3 entregable del proyecto
+1.1.4 resumen del calendario y presupuesto
+1.2 evolucion del PGPS
